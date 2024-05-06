@@ -1,12 +1,12 @@
-usage: rss_reader.py [-h] [--json] [--limit LIMIT]
-                    source
+<b>usage: rss_reader.py [URL] [-h] [--json] [--limit LIMIT]
+                  
 
-Pure Python command-line RSS reader.
+<br> Pure Python command-line RSS reader.
 
-positional arguments:
- `source`         `RSS URL`
+<br> positional arguments:
+<br>  `source`         `RSS URL`
 
-optional arguments:
- `-h`, `--help`     show this help message and exit
- `--json`         Print result as JSON in stdout
- `--limit LIMIT`  Limit news topics if this parameter is provided
+<br>optional arguments:
+<br>`-h`, `--help`     show this help message and exit
+<br>`--json`         Print result as JSON in stdout
+<br>`--limit LIMIT`  Limit news topics if this parameter is provided
